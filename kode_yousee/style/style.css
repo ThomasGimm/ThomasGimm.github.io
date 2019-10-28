@@ -1,0 +1,148 @@
+body {
+    color: white;
+    margin: 0%;
+}
+
+h1 {
+    font-family: arial black;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-top: 3%;
+    margin-left: 5%;
+}
+
+h2 {
+    font-family: source sans pro light;
+    display: block;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 9%;
+}
+
+#streg {
+    width: 17%;
+    margin-bottom: 1%;
+    margin-left: 4%;
+}
+
+#fodbold {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tid {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#quiz {
+    position: relative;
+}
+
+p {
+    font-family: source sans pro light;
+    font-size: 32px;
+    position: absolute;
+    color: #00F342;
+    justify-content: center;
+    top: -4%;
+    left: 44%;
+}
+
+.artist {
+    position: relative;
+    font-size: 22px;
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    top: 0%;
+    left: 0%;
+}
+
+h3 {
+    position: absolute;
+    font-size: 36px;
+    font-family: arial black;
+    top: 14%;
+    left: 30%;
+}
+
+#flexbox {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 37%;
+    left: 34%;
+}
+
+#album1 {
+    margin-bottom: 9%;
+    width: 130%;
+}
+
+#album2 {
+    margin-bottom: 9%;
+    width: 130%;
+}
+
+#album3 {
+    width: 130%;
+}
+
+ul {
+    position: absolute;
+    top: 37%;
+    left: 42%;
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    font-size: 32px;
+}
+
+iframe {
+    position: absolute;
+    top: 85%;
+    left: 35%;
+}
+
+.streg {
+    width: 55%;
+    padding-bottom: 7%;
+}
+
+button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font-family: source sans pro;
+    cursor: pointer;
+    outline: inherit;
+}
+
+#bund {
+    width: 1000px;
+    margin-top: 5%;
+    z-index: -3;
+}
+
+
+#wrapper {
+
+    background-color: #002519;
+    height: auto !important;
+    font-size: 18px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6em;
+
+}
