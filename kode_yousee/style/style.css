@@ -76,7 +76,7 @@ h3 {
     display: flex;
     flex-direction: column;
     top: 37%;
-    left: 34%;
+    left: 30%;
 }
 
 #album1 {
@@ -96,7 +96,7 @@ h3 {
 ul {
     position: absolute;
     top: 37%;
-    left: 42%;
+    left: 38%;
 }
 
 li {
