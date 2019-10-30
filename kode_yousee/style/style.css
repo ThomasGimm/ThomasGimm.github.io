@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-    font-family: source sans pro light;
+    font-family: 'Source Sans Pro light', sans-serif;
     display: block;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -44,7 +44,7 @@ h2 {
 }
 
 p {
-    font-family: source sans pro light;
+    font-family: 'Source Sans Pro light', sans-serif;
     font-size: 32px;
     position: absolute;
     color: #00F342;
@@ -123,7 +123,7 @@ button {
     color: inherit;
     border: none;
     padding: 0;
-    font-family: source sans pro;
+    font-family: 'Source Sans Pro light', sans-serif;
     cursor: pointer;
     outline: inherit;
 }
